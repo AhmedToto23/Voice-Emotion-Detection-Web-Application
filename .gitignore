@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (large files - optional, see note below)
+backend/models/*.joblib
+
+# Temporary files
+*.log
+*.tmp
+temp/
+tmp/
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+## Download Models
+Models are too large for GitHub. Download from:
+- [Google Drive Link](https://drive.google.com/drive/folders/1__6iWDGlBW6oY6Hvdg83NpgtKc_Xginc?usp=sharing)
+- Extract to `backend/models/`
