@@ -168,7 +168,7 @@ The trained model files are **not included** in this repository due to size cons
 - Models will be saved in `backend/models/`
 
 **Option 2: Download Pre-trained Models**
-- [Download from Google Drive](#) *(add your link here)*
+- [Download from Google Drive](#) *(https://drive.google.com/drive/folders/1__6iWDGlBW6oY6Hvdg83NpgtKc_Xginc?usp=sharing)*
 - Extract to `backend/models/`
 
 ## 🌐 Deploy Online
